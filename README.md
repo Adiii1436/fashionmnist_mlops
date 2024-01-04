@@ -2,7 +2,7 @@
 
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/zenml)](https://pypi.org/project/zenml/)
 
-**Problem statement**: Crafting a personal MLOps project, this initiative tackles the challenge of organizing a machine learning workflow. Focused on the FashionMNIST dataset, the goal is to create a step-by-step process—from data handling to deploying a CNN model. The project aims to solve common issues in machine learning projects, like tangled code and tricky deployments. By structuring the project into clear stages, it simplifies the journey from idea to solution. Highlighting the importance of deploying a model, this project aims to showcase the practical impact of machine learning while providing a straightforward template for others diving into this field.
+**Problem statement**: Crafting a personal MLOps project, this initiative tackles the challenge of organizing a machine learning workflow. Focused on the FashionMNIST dataset, the goal is to create a step-by-step process from data handling to deploying a CNN model. The project aims to solve common issues in machine learning projects, like tangled code and tricky deployments. By structuring the project into clear stages, it simplifies the journey from idea to solution. Highlighting the importance of deploying a model, this project aims to showcase the practical impact of machine learning while providing a straightforward template for others diving into this field.
 
 ![FASHION_MNIST_DATASET](https://res.cloudinary.com/practicaldev/image/fetch/s---fNWEeWA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/master/doc/img/fashion-mnist-sprite.png)
 
