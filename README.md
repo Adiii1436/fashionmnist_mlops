@@ -11,8 +11,8 @@
 Let's jump into the Python packages you need. Within the Python environment of your choice, run:
 
 ```bash
-git clone https://github.com/zenml-io/zenml-projects.git
-cd zenml-projects/customer-satisfaction
+git clone https://github.com/Adiii1436/fashionmnist_mlops.git
+cd fashionmnist_mlops
 pip install -r requirements.txt
 ```
 
